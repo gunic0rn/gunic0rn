@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @gunic0rn
-- 👀 I’m interested in OSS
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on OSS
+
 - 📫 How to reach me snyende@gerties.org
 
 <!---
